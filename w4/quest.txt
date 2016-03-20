@@ -1,0 +1,8 @@
+Questions: What happened if image pixel values are rescaled by 2, rounded to integers,
+then rescaled by 1/2, and finally rounded to integers again?
+
+Nothing happens
+
+
+What happened if image pixel values are rescaled by 1/2, rounded to integers, then rescaled by 2, and finally
+rounded to integers again?

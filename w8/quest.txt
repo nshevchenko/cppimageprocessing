@@ -1,0 +1,7 @@
+Questions: What’s the difference between shifting and absolute value conversion? In
+what cases, the absolute value conversion is needed after convolution?
+
+Absolute value conversion means changing the sign of the expression.
+-20 => 20
+
+while shifting means to subtract or add a scalar to a set to values.

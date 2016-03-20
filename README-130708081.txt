@@ -1,0 +1,17 @@
+
+C++ Image Processing Labs
+2016
+
+__________________ INFO _____________
+
+Author: Mykola Shevchenko 
+ID : 130708081
+Lab 9 has ROI and UNDO.
+
+
+__________ ROI ________________
+
+1)To use ROI right click on an area, drag it at left bottom and release. 
+2)Mouse down with mouse up create an imaginary square that now is an ROI.
+3)Apply any effects on that desired area.
+4)To remove an ROI, right click on the picture. Do step 1 again.
